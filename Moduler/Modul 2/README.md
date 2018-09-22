@@ -8,7 +8,7 @@ Kapitel 2.10	Antiderivata
 Kapitel 3.1	Inversa funktioner
 Övningar
 
-Rekommenderade uppgifter för övningstimmarna hittar du i detta dokumentet Modul 2Förhandsvisa dokumentet, och lite svårare uppgifter är tentamensuppgifterna nedan.
+Rekommenderade uppgifter för övningstimmarna hittar du i detta dokumentet [Modul 2](https://github.com/darkraven92/SF1625/blob/master/Moduler/Modul%202/Modul2.pdf) Förhandsvisa dokumentet, och lite svårare uppgifter är tentamensuppgifterna nedan.
 
 Tentamensuppgifter
 
@@ -17,4 +17,4 @@ Uppgift 6, 2016-06-10. Uppgift 2, 2017-10-24
 Uppgift 4, 2018.03.12
 Seminarium
 
-Att bestämma en ekvation för tangentlinjen till en funktionskurva i en given punkt är temat för seminarieprovet. Arbetsmaterial till själva seminariet finns i dokumentet Seminarium 2Förhandsvisa dokumentet , och Uppgift 1 är typisk för fråga på prov.
+Att bestämma en ekvation för tangentlinjen till en funktionskurva i en given punkt är temat för seminarieprovet. Arbetsmaterial till själva seminariet finns i dokumentet [Seminarium 2](https://github.com/darkraven92/SF1625/blob/master/Moduler/Modul%202/Sem2.pdf) Förhandsvisa dokumentet , och Uppgift 1 är typisk för fråga på prov.
