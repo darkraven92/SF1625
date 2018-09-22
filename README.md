@@ -11,7 +11,7 @@ Studentexpeditionen
 Hjälp med administrativa frågor (tex kursregistrering, tentamensanmälan) hittar du hos studentexpeditionen (Länkar till en externa sida.)Länkar till en externa sida..
 
 Litteratur
-All information om kurslitteratur och kursinnehåll hittar du här.
+All information om kurslitteratur och kursinnehåll hittar du [här](https://github.com/darkraven92/SF1625/blob/master/Sidor/Litteratur.md).
 
 FAQ
 Har du frågor och funderingar så hittar du kanske svar på dessa under länken FAQ
