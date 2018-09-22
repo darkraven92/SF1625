@@ -1,3 +1,5 @@
+Gränsvärde och kontinuitet
+
 Innehåll
 Kapitel P	Funktioner, polynom och trigonometri
 Kapitel 1.1-1.3, 1.5	Gränsvärde
