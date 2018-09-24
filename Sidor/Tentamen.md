@@ -21,7 +21,7 @@ Kompletteringstentamen
 Vid betyget Fx ges en möjlighet till komplettering till godkänt betyg vid en kompletteringstentamen. Kompletteringstentamen har en skrivtid på 45 minuter.
 
 Tidigare tentamina
-För tidigare tentor i kursen se länken [Tidigare Tentor](https://www.kth.se/social/course/SF1625/page/tidigare-tentor-11/). (Länkar till en externa sida.)Länkar till en externa sida. Där läggs också lösningar ut till årets tentor. 
+För tidigare tentor i kursen se länken [Tidigare Tentor](https://github.com/darkraven92/SF1625/tree/master/Tidigare%20tentor). (Länkar till en externa sida.)Länkar till en externa sida. Där läggs också lösningar ut till årets tentor. 
 
 Tillåtna hjälpmedel
 Vid tentamen är inga hjälpmedel tillåtna.
